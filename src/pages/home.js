@@ -1,5 +1,12 @@
+/**
+ * @author NahidRahman
+ * @description
+ * Landing page
+ * 
+ */
+
 import React from 'react';
 
 export default function Home () {
-    return <div>Home</div>;
+    return<section className="container home"></section>;
 }

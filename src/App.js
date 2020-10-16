@@ -1,9 +1,18 @@
+/**
+ * @author NahidRahman
+ * @description
+ * the first entry point of the application
+ * main responsibility is to initiate route
+ *
+ */
+
 import React from 'react';
 import Navigation from './components/navigation';
 import PageRenderer from './page-renderer';
 import {BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-dom'
 
 function App() {
+  // Show for guest user and pass along in navigation
   const user = {
     firstName: 'Guest',
     lastName: ''
