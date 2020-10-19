@@ -10,7 +10,7 @@
 import React, {useState} from 'react';
 import {Link} from 'react-router-dom'; // To allow routes to be linked
 import { Avatar } from 'antd'; // Ant design components - here for user icon
-import Logo from '../assets/images/tripologo.png'
+import Logo from '../../assets/images/tripologo.png';
 
 // This array holds the navigation titles and links
 const navLinks= [
