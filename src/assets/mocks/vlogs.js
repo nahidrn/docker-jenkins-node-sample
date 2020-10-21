@@ -28,6 +28,13 @@ export default [
         categories: ['Bandarban', 'Local'],
         link: '#',
         image: 'rimakri.jpg'
+    },
+    {
+        title: 'Rimakri - Nafakhum',
+        date: moment().format('MMMM DD, YYYY'),
+        categories: ['Bandarban', 'Local'],
+        link: '#',
+        image: 'rimakri.jpg'
     }
 
 ]
