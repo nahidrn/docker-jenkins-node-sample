@@ -1,0 +1,25 @@
+{
+  "name": "tripolog-backend",
+  "version": "1.0.0",
+  "description": "Koa+GraphQL backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahidrn/tripolog-koajs-reactjs.git"
+  },
+  "author": "\"Nahid Rahman\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahidrn/tripolog-koajs-reactjs/issues"
+  },
+  "homepage": "https://github.com/nahidrn/tripolog-node-react#readme",
+  "dependencies": {
+    "apollo-server-koa": "^2.18.2",
+    "graphql-tools": "^7.0.1",
+    "koa": "^2.13.0",
+    "moment": "^2.29.1"
+  }
+}
