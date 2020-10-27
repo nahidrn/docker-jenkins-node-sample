@@ -1,4 +1,4 @@
-## Sample full stack project with Nodejs, reactJs and Mysql
+## Sample full stack project with Nodejs - KoaJs, reactJs and Mysql
 
 ## Available Scripts
 
